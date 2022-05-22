@@ -1,5 +1,5 @@
-# teks-group-helper
+# cbmps-group-helper
 
-Scrapped cause i dont know how to work github on vs code
+Forked cause i dont use vscode and i directly copy and paste code to github.com
 
-Also project sucks
+Also tek can suck dick
